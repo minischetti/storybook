@@ -29,7 +29,7 @@ Use this boilerplate code to add a new `Panel` to Storybook's UI:
 
 ### Toolbars
 
-Toolbar addons allow you to add your own custom tools in Storybook's Toolbar. For example the official [@storybook/backgrounds](../essentials/backgrounds.md) and the [storybook-addon-outline](https://github.com/chromaui/storybook-outline) use this pattern.
+Toolbar addons allow you to add your own custom tools in Storybook's Toolbar. For example the official [@storybook/backgrounds](../essentials/backgrounds.md) and [@storybook/addon-outline](https://github.com/storybookjs/storybook/tree/next/addons/outline) use this pattern.
 
 ![Storybook toolbar addon](./storybook-toolbar.png)
 
